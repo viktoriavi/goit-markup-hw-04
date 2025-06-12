@@ -288,12 +288,11 @@ img {
 }
 .teammates {
   padding: 32px 0;
-  /* height: 112px; */
-  /* height: 112px;
+  height: 112px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
 }
 
 /* #endregion */
