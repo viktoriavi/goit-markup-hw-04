@@ -287,12 +287,12 @@ img {
   gap: 24px;
 }
 .teammates {
-  padding: 32px 0;
-  height: 112px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  height: 112px;
+  flex-direction: column;
+  padding: 32px 0;
 }
 
 /* #endregion */
