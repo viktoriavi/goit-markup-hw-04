@@ -200,6 +200,10 @@ img {
   width: calc((100% - 72px) / 4);
 }
 .benefits-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
   padding: 24px 100px;
   margin-bottom: 8px;
   border-radius: 4px;
@@ -287,11 +291,6 @@ img {
   gap: 24px;
 }
 .teammates {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  flex-direction: column;
   padding: 32px 0;
 }
 
