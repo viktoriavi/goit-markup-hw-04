@@ -295,6 +295,7 @@ img {
   background-color: #404bbf;
 }
 .team-list-icon {
+  fill: #f4f4fd;
 }
 .social-icon {
   display: flex;
