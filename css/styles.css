@@ -275,6 +275,7 @@ img {
 .social-icon-list {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 24px;
 }
 .social-icon-list-item {
@@ -298,12 +299,12 @@ img {
 .team-list-icon {
   fill: #f4f4fd;
 }
-.social-icon {
+/* .social-icon {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
-}
+} */
 .teammates {
   padding: 32px 0;
 }
