@@ -408,7 +408,6 @@ img {
 .page-footer .container {
   display: flex;
   align-items: baseline;
-  gap: 120px;
   max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
@@ -416,6 +415,7 @@ img {
 }
 .footer-info {
   max-width: 264px;
+  margin-right: 120px;
 }
 .footer-logo-link {
   font-family: "Raleway", sans-serif;
